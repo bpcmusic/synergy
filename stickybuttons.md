@@ -1,5 +1,4 @@
 #Sticky Buttons
----
 
 There are seven switches on my Synergy that are sticking and requiring that they be pulled upwards to unlatch.
 

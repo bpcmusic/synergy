@@ -1,5 +1,6 @@
 #bpcmusic's dk synergy corner
----
+
+![My Synergy](mysynergy.png)
 
 I'm creating this archive as a place to document my attempts to restore a DK Synergy II+ that was purchased in the fall of 2016 as a part of my #midlifesynthcrisis or #midilifecrisis. :) I'll also be sharing a lot of photos on [my personal Instagram](http://instagram.com/bpcmusic).
 
