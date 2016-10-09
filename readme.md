@@ -9,13 +9,13 @@ Along the way, I'll store the relevant things that I learn here. While I am rela
 ##My Journey
 
 * [Taking the Synergy Apart](teardown.md)
-* Replacing the Aging Capacitors
+* [Replacing the Aging Capacitors](capacitors.md)
 * Installing Headers for Board Connections
 * Restoring the Wood Case
 * Replacing the Power Supply
 * Replacing the Noisy Fan
 * [Fixing Sticky Buttons](stickybuttons.md)
-* Connecting to the Kaypro II
+* [Connecting to the Kaypro II](kaypro.md)
 * Replacing the Kaypro II Disk Drive with a Floppy Emulator
 * Building a Cartridge PCB and 3D Printed Shell
 
