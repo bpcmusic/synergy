@@ -41,9 +41,10 @@ D/A Board | Voice Board | Processor Board + RS232 and Programming Daughterboards
 
 Was able to carefully remove the smaller of the two (the RS232 board); the EEPROM board is pretty snug for me. Going to put that on hold until I get to the header installation.
 
-####5. REMOVING THE MIDI ASSEMBLY
+####5. REMOVING THE MIDI ASSEMBLY & AUDIO PANEL
 
-Remove the six screws from the MIDI panel and store the whole assembly away.
+1. Remove the six screws from the MIDI panel and store the whole assembly away.
+2. Remove the six screws from the Audio panel and store the whole thing (wires and all) carefully away.
 
 ####6. REMOVING THE POWER SUPPLY
 
@@ -61,10 +62,11 @@ The power supply is held into the body of the Synergy by the screws on the back 
 8. Remove the two nuts that hold the joystick in place, then remove the ground wire and then the final nut. Remove the joystick. Mark the top and store it away.
 9. Remove the two potentiometers by unscrewing the nuts that are on the front of the potentiometers.
 
-####8. Misc.
+####8. Panel & Misc.
 
-1. Finish up by removing the vent grill (noting its orientation).
-2. Check that the washers that sat under the keyboard assembly aren't loose - four of mine were.
+1. Carefully pop out the panel. Might have to softly tap on some of the screws that go through the wood body to loosen it up. Mine wanted to catch a bit on the wood around it and cause more problems - but I thankfully kept it under control.
+2. Finish up by removing the vent grill (noting its orientation).
+3. Check that the washers that sat under the keyboard assembly aren't loose - four of mine were.
 
 
 
