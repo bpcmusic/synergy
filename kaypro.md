@@ -1,3 +1,5 @@
+[< BACK](readme.md)
+
 #Connecting to the Kaypro II
 
 Getting the Synergy II+ working with the Kaypro isn't hard, but it can be tricky if you don't know all the steps. Here is what I had to do to get it running.

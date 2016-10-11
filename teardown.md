@@ -1,3 +1,5 @@
+[< BACK](readme.md)
+
 #Taking Apart the Synergy
 
 Followed the instructions in the "DK-1 Operating System V 2.42 - Installation" document for the diassembly; presenting a shortened version here with a little more detail on the things that I did during the process.

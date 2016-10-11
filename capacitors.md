@@ -1,3 +1,5 @@
+[< BACK](readme.md)
+
 #Synergy Capacitor Replacement
 
 This page will run down the list of Tantalum Capacitors that I replaced in my Synergy, board by board.

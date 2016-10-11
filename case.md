@@ -1,3 +1,5 @@
+[< BACK](readme.md)
+
 # Restoring the Wood Case
 
 So - my Synergy is currently a medium-brown wood. It has some damage, but isn't horrible. Basic scratches and light gouges around the body. Only one place on the primary face where a little of the surface is chipped off. Each of the four corners of the base is crushed in a bit.
