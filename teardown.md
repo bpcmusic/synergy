@@ -16,6 +16,8 @@ Followed the instructions in the "DK-1 Operating System V 2.42 - Installation" d
 
 ####2. REMOVING THE KEYBOARD
 
+![Keyboard](keyboard.jpg)
+
 1. Remove the ribbon connector from the upper right of the keyboard; do it carefully and "DO NOT PULL ON THE WIRE" (quoting the aforementioned document). It suggests using a flathead screwdriver - I used needlenose pliers.
 2. Get a helper to hold the top of your Synergy - in the next step you remove the keyboard assembly, which causes a lot of weight to leave the base of the keyboard. Mine wanted to tip over - hence the helper.
 3. Put a few things adjacent to the boards in the base of your Synergy to balance the weight with the top. I used 10 lbs of padded hand weights way at the front - which was just about enough.
@@ -55,6 +57,8 @@ Was able to carefully remove the smaller of the two (the RS232 board); the EEPRO
 
 ####5. REMOVING THE MIDI ASSEMBLY & AUDIO PANEL
 
+![Audio Panel](top_left.jpg)
+
 1. Remove the six screws from the MIDI panel and store the whole assembly away.
 2. Remove the six screws from the Audio panel and store the whole thing (wires and all) carefully away.
 
@@ -63,6 +67,8 @@ Was able to carefully remove the smaller of the two (the RS232 board); the EEPRO
 The power supply is held into the body of the Synergy by the screws on the back of the chassis - for of these screws hold the Synergy nameplate in place. I removed them while the case was open so that gravity kept the power supply box in place. To be safe, I also put a bunch of foam in the now empty Synergy body to catch the thing if it slides down while being removed.
 
 ####7. BEHIND THE FRONT PANEL
+
+![Top Without Daughterboard](top_no_daughter.jpg)
 
 1. Remove all of the knobs from their shafts on the front panel.
 2. Remove all of the screws around the back of the panel that come through the wood body. Then wonder why you can't pop the whole thing out. But, don't try. Bad things will happen.
