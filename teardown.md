@@ -30,6 +30,18 @@ Left | Center | Right
 --- | --- | ---
 D/A Board | Voice Board | Processor Board + RS232 and Programming Daughterboards
 
+DAC Board:
+
+![DAC Board](dac.jpg)
+
+Voice Board:
+
+![Voice Board](voice.jpg)
+
+Processor Board:
+
+![Processor Board](processor.jpg)
+
 1. Mark and Label Everything - there are a lot of wires *everywhere*.
 2. Take a lot of photos. 
 3. Take a few more photos. ;)
