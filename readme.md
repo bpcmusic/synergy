@@ -12,8 +12,7 @@ Along the way, I'll store the relevant things that I learn here. While I am rela
 * [Replacing the Aging Capacitors](capacitors.md)
 * Installing Headers for Board Connections
 * [Restoring the Wood Case](case.md)
-* Replacing the Power Supply
-* Replacing the Noisy Fan
+* Replacing the Power Supply and Noisy Fan
 * [Fixing Sticky Buttons](stickybuttons.md)
 * [Connecting to the Kaypro II](kaypro.md)
 * Replacing the Kaypro II Disk Drive with a Floppy Emulator
@@ -28,6 +27,13 @@ Along the way, I'll store the relevant things that I learn here. While I am rela
 * [Vintage Synth](http://www.vintagesynth.com/misc/synergy.php)
 * [Old Crow's Vintage Synth Tips](http://www.oldcrows.net/~oldcrow/synth/tips.txt)
 * [HxC Floppy Emulator](http://hxc2001.free.fr/floppy_drive_emulator/)
+* [Syntaur Synergy Parts](https://syntaur.com/synergy.html)
+
+##Synergy Videos
+
+* Rex Coggins has compiled a YouTube playlist that covers a whole bunch of Synergy-related videos up on YouTube; check it out at [https://www.youtube.com/playlist?list=PLffUjChiMD5i-BCu7Go9ABLnsAaPviy90](https://www.youtube.com/playlist?list=PLffUjChiMD5i-BCu7Go9ABLnsAaPviy90) 
 
 ##Nice Helpful Folks
 
+* Major thanks to **Brian McLaren** (made a few of those YouTube videos up there). He has gone above and beyond with me helping get the instrument 100% with my software, EPROMs and general usage questions.
+* Thanks to **Rex Coggins** for his advice and recommendations.
