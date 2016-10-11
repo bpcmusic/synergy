@@ -50,7 +50,7 @@ Was able to carefully remove the smaller of the two (the RS232 board); the EEPRO
 
 The power supply is held into the body of the Synergy by the screws on the back of the chassis - for of these screws hold the Synergy nameplate in place. I removed them while the case was open so that gravity kept the power supply box in place. To be safe, I also put a bunch of foam in the now empty Synergy body to catch the thing if it slides down while being removed.
 
-####7. FRONT PANEL
+####7. BEHIND THE FRONT PANEL
 
 1. Remove all of the knobs from their shafts on the front panel.
 2. Remove all of the screws around the back of the panel that come through the wood body. Then wonder why you can't pop the whole thing out. But, don't try. Bad things will happen.
@@ -62,11 +62,15 @@ The power supply is held into the body of the Synergy by the screws on the back 
 8. Remove the two nuts that hold the joystick in place, then remove the ground wire and then the final nut. Remove the joystick. Mark the top and store it away.
 9. Remove the two potentiometers by unscrewing the nuts that are on the front of the potentiometers.
 
-####8. Panel & Misc.
+####8. PANEL & MISC
 
 1. Carefully pop out the panel. Might have to softly tap on some of the screws that go through the wood body to loosen it up. Mine wanted to catch a bit on the wood around it and cause more problems - but I thankfully kept it under control.
 2. Finish up by removing the vent grill (noting its orientation).
 3. Check that the washers that sat under the keyboard assembly aren't loose - four of mine were.
 
+---
 
+Here is what it looked like when I was all done:
+
+![Disassembled](disassembled.jpg)
 
