@@ -11,7 +11,7 @@ Along the way, I'll store the relevant things that I learn here. While I am rela
 * [Taking the Synergy Apart](teardown.md)
 * [Replacing the Aging Capacitors](capacitors.md)
 * Installing Headers for Board Connections
-* Restoring the Wood Case
+* [Restoring the Wood Case](case.md)
 * Replacing the Power Supply
 * Replacing the Noisy Fan
 * [Fixing Sticky Buttons](stickybuttons.md)
