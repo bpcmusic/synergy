@@ -2,7 +2,7 @@
 
 ![My Synergy](mysynergy.png)
 
-I'm creating this archive as a place to document my attempts to restore a DK Synergy II+ that was purchased in the fall of 2016 as a part of my #midlifesynthcrisis or #midilifecrisis. :) I'll also be sharing a lot of photos on [my personal Instagram](http://instagram.com/bpcmusic).
+I'm creating this archive as a place to document my attempts to restore a DK Synergy II+ (#1398) that was purchased in the fall of 2016 as a part of my #midlifesynthcrisis or #midilifecrisis. :) I'll also be sharing a lot of photos on [my personal Instagram](http://instagram.com/bpcmusic).
 
 Along the way, I'll store the relevant things that I learn here. While I am relatively handy with electronics, this is the first vintage synth project that I've undertaken. 
 
