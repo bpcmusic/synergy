@@ -12,7 +12,7 @@ Along the way, I'll store the relevant things that I learn here. While I am rela
 * [Replacing the Aging Capacitors](capacitors.md)
 * Installing Headers for Board Connections
 * [Restoring the Wood Case](case.md)
-* Replacing the Power Supply and Noisy Fan
+* [Replacing the Power Supply and Noisy Fan](powersupply.md)
 * [Fixing Sticky Buttons](stickybuttons.md)
 * [Connecting to the Kaypro II](kaypro.md)
 * Replacing the Kaypro II Disk Drive with a Floppy Emulator
