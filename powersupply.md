@@ -1,3 +1,5 @@
+[< BACK](readme.md)
+
 #Power Supply Upgrade
 
 The following power supply was recommended to me for the Synergy (it has been tested and used with several refurbishments):
