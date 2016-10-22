@@ -16,7 +16,8 @@ Along the way, I'll store the relevant things that I learn here. While I am rela
 * [Fixing Sticky Buttons](stickybuttons.md)
 * [Connecting to the Kaypro II](kaypro.md)
 * Replacing the Kaypro II Disk Drive with a Floppy Emulator
-* Building a Cartridge PCB and 3D Printed Shell
+* [Building a Cartridge PCB and 3D Printed Shell](cartridge.md)
+* [Keyboard Refurbishment](keyboard.md)
 
 
 ##Handy Resources
@@ -37,3 +38,4 @@ Along the way, I'll store the relevant things that I learn here. While I am rela
 
 * Major thanks to **Brian McLaren** (made a few of those YouTube videos up there). He has gone above and beyond with me helping get the instrument 100% with my software, EPROMs and general usage questions.
 * Thanks to **Rex Coggins** for his advice and recommendations.
+* Thanks to **Alexander Guelfenberg** at [Virtual Music](http://virtual-music.at/webseiten_e/zubehoer/dk.htm) - insanely nice and helpful in my trek to refurbish the Synergy.
