@@ -6,7 +6,7 @@ I have a complete set of all of the EPROMs for the Synergy - including all of th
 
 All the EPROMs:
 
-![EPROMs](scad/eprom.png)
+![EPROMs](scad/eproms.png)
 
 So, it appears that the Synergy uses cartridges that are compatible with the Atari 400 computer game console. If I had just a few cartridges to do I could eBay a handful of cartridges and be off to the races as apparently the PCBs are pin-identical as well.
 
