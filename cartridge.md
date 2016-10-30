@@ -2,15 +2,15 @@
 
 #Synergy Cartridge
 
-I have a complete set of all of the EPROMs for the Synergy - including all of the cartridges. Yes, these are also available using SYNHCS on the Kaypro (they are all archived on the disks), but for completeness I wanted to have a full set of cartridges to go with it.
-
-All the EPROMs:
+I have a complete set of all of the EPROMs for the Synergy - including all of the cartridges. I'd like to fit these into actual cartridges to have along side my Synergy (as opposed to using some sort of socket adapter or a multi-cartridge device). 
 
 ![EPROMs](scad/eproms.png)
 
+	I know what you are thinking. Yes, these are also available using SYNHCS on the Kaypro II (they are all archived on the collection of voice disks that I have), but I wanted to have a full set of cartridges to go with it so I don't have to always boot up the Kaypro II.
+
 According to Dan Wilson of Hideaway Studio, the Synergy uses cartridge bodies and PCBs that are compatible with the vintage Atari 400 computer game console. In my cursory research, this seems to be the case.  If I had just a few cartridges to do I could eBay a handful of cartridges, mod the PCB and be off to the races.
 
-However, I have 23 cartridges to make - so I decided to 3D print my own custom case (based off a vintage Synergy voice cartridge) and replicate the PCB in Eagle.
+As I have 23 cartridges to make (and enjoy a good challenge), I decided to 3D print my own custom case (based off a vintage Synergy voice cartridge) and replicate the PCB in Eagle.
 
 ##MY PLAN:
 
@@ -91,4 +91,4 @@ Finally, there is a link to the EEPROM data sheet in the Additional Resources se
 * [PDF for Atari 400 PCB](http://www.grandideastudio.com/wp-content/uploads/pp_atari8bit_instructions.pdf) from Grand Idea Studio (not used)
 * [Page with Link to Gerbers File](http://www.grandideastudio.com/portfolio/pixels-past/) from Grand Idea Studio (not used)
 * Original PCB Top: ![Original PCB Top](scad/orig_pcb_top.jpg)
-* Original PCB Bottom: ![Original PCB Bottom](scad/orig_pcb_top.jpg)
+* Original PCB Bottom: ![Original PCB Bottom](scad/orig_pcb_bottom.jpg)
