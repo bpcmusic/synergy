@@ -32,7 +32,7 @@ The cart body is in two parts - the top and the bottom. While it is close to the
 ![Top](scad/cart_top.jpg)
 ![Bottom](scad/cart_bottom.jpg)
 
-You are welcome to grab the STL and/or OpenSCAD files to play around with it. I've been printing on my NewMatter Mod-T with PLA. If you are using a different printer, the tolerances may be different. Let me know if you have any issues.
+You are welcome to grab the STL and/or OpenSCAD files to play around with it (covered under the cc-by-sa-3 license; see the bottom of this page). I've been printing on my NewMatter Mod-T with PLA. If you are using a different printer, the tolerances may be different. Let me know if you have any issues.
 
 * [Top STL File](scad/synergycart-top.stl)
 * [Bottom STL File](scad/synergycart-bottom.stl)
@@ -81,7 +81,7 @@ There is also a through-hole resistor (4k7), capacitor (.1uf) and diode on the o
 
 ![Schematic](scad/cart_schematic.png)
 
-I'll post the Eagle Files and Gerbers here once it is tested and working.
+I'll post the Eagle Files, Gerbers and BOM once it is tested and working. (They will also be covered by the cc-by-sa-3 license; see the bottom of the page.)
 
 Finally, there is a link to the EEPROM data sheet in the Additional Resources section below.
 
@@ -92,3 +92,7 @@ Finally, there is a link to the EEPROM data sheet in the Additional Resources se
 * [Page with Link to Gerbers File](http://www.grandideastudio.com/portfolio/pixels-past/) from Grand Idea Studio (not used)
 * Original PCB Top: ![Original PCB Top](scad/orig_pcb_top.jpg)
 * Original PCB Bottom: ![Original PCB Bottom](scad/orig_pcb_bottom.jpg)
+
+##License for Original Materials
+
+The original materials made available on this page are licensed under the [cc-by-sa-3](https://creativecommons.org/licenses/by-sa/3.0/us/) license.
