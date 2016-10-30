@@ -48,14 +48,16 @@ You will also need a 1/2 inch #6 wood screw (0.138" major thread diameter and .2
 
 ##CARTRIDGE PCB
 
-As opposed to using the Atari 400 cartridge PCB (there is a schematic in the Additional Resources if you care curious), I decided to I took apart a Synergy Cartridge and reverse engineered it with a voltmeter and high-precision calipers and replicated it in Eagle. Why? Cuz it was fun.
+As opposed to using the Atari 400 cartridge PCB (there is a schematic in the Additional Resources if you are curious), I decided to take apart a Synergy Cartridge and reverse engineer it with a voltmeter and high-precision calipers. I then replicated it in Eagle. Why? Cuz it was fun. ;)
 
-Here are the rendered test PCBs from OSH Park.
+Here are the rendered test PCBs from OSH Park:
 
 ![Top of Board](scad/board_top.png)
 ![Top of Board](scad/board_bottom.png)
 
 ####EEPROM Pin Mapping
+
+Here are some notes I made during the process:
 
 | Top Edge | EEPROM Pin |  | Bottom Edge | EEPROM Pin |
 | --- | --- | --- | --- | --- |
@@ -75,11 +77,13 @@ Here are the rendered test PCBs from OSH Park.
 | T14 | 26/28 | | B14 | 14/20 |
 | T15 | X | | B15 | 14/20 |
 
-There is also a through-hole resistor (4k7), capacitor (.1uf) and diode on the original cartridge. You can find my reverse-engineered schematic below:
+There is also a through-hole resistor (4k7), capacitor (.1uf) and diode on the original cartridge. You can find my reverse-engineered schematic below that shows where to place these:
 
 ![Schematic](scad/cart_schematic.png)
 
 I'll post the Eagle Files and Gerbers here once it is tested and working.
+
+Finally, there is a link to the EEPROM data sheet in the Additional Resources section below.
 
 ##ADDITIONAL RESOURCES
 
