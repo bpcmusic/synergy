@@ -45,7 +45,7 @@ wlabelinset = 15.5;
 // avery end size
 davery = 12.7;
 havery = 44.45;
-averypadding = 4;
+averypadding = 1;
 
 // board bounders
 bounderinset = 10.75;
@@ -87,14 +87,21 @@ module topelements(){
     // TOP ONLY
     if (DRAWTOP){
         
-        // top pokey dinguses
+        // dinguses
+        // center dingus
         translate([thickness + (rounded / 2),h/2,half - thickness])
             cylinder(d - half + thickness, thickness / 2.33, thickness / 2.33);
-        
+        // top right
         translate([thickness + (rounded / 2),thickness + rounded,half - thickness])
             cylinder(d - half + thickness, thickness / 2.33, thickness / 2.33);
-        
+        // top left
         translate([thickness + (rounded / 2),h - thickness - rounded,half - thickness])
+            cylinder(d - half + thickness, thickness / 2.33, thickness / 2.33);
+        // wall left
+        translate([w - wallfromend - wallwidth,thickness + rounded,half - thickness])
+            cylinder(d - half + thickness, thickness / 2.33, thickness / 2.33);
+        // wall rigth
+        translate([w - wallfromend - wallwidth,h - thickness - rounded,half - thickness])
             cylinder(d - half + thickness, thickness / 2.33, thickness / 2.33);
         
         // middle screw thing
@@ -121,20 +128,37 @@ module bottomelements() {
         translate([w - wallfromend, supportfromend, half])
             cube([wallwidth, h - (2 * supportfromend), supportheight]);
 
-        // bottom top dinguses
+        // bottom dinguses
+        // top center
         translate([thickness + (rounded / 2),h/2,0])
             difference(){
                 cylinder(half, thickness, thickness);
                 translate([0, 0, thickness])
                     cylinder(half + thickness, thickness / 2, thickness / 2);
             }
+        // top left 
         translate([thickness + (rounded / 2),thickness + rounded,0])
             difference(){
                 cylinder(half, thickness, thickness);
                 translate([0, 0, thickness])
                     cylinder(half + thickness, thickness / 2, thickness / 2);
             }
+        // top right
         translate([thickness + (rounded / 2),h - thickness - rounded,0])
+            difference(){
+                cylinder(half, thickness, thickness);
+                translate([0, 0, thickness])
+                    cylinder(half + thickness, thickness / 2, thickness / 2);
+            }
+        // wall left 
+        translate([w - wallfromend - wallwidth,thickness + rounded,0])
+            difference(){
+                cylinder(half, thickness, thickness);
+                translate([0, 0, thickness])
+                    cylinder(half + thickness, thickness / 2, thickness / 2);
+            }
+        // wall right
+        translate([w - wallfromend - wallwidth,h - thickness - rounded,0])
             difference(){
                 cylinder(half, thickness, thickness);
                 translate([0, 0, thickness])
@@ -207,6 +231,10 @@ module shell(){
     translate([thickness + (rounded / 2),thickness + rounded,half])
         cylinder(d - half, thickness, thickness);
     translate([thickness + (rounded / 2),h - thickness - rounded,half])
+        cylinder(d - half, thickness, thickness);
+    translate([w - wallfromend - wallwidth,thickness + rounded,half])
+        cylinder(d - half, thickness, thickness);
+    translate([w - wallfromend - wallwidth,h - thickness - rounded,half])
         cylinder(d - half, thickness, thickness);
 
      // swampy bounders

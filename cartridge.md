@@ -8,15 +8,31 @@ All the EPROMs:
 
 ![EPROMs](scad/eproms.png)
 
-So, it appears that the Synergy uses cartridges that are compatible with the Atari 400 computer game console. If I had just a few cartridges to do I could eBay a handful of cartridges and be off to the races as apparently the PCBs are pin-identical as well.
+According to Dan Wilson of Hideaway Studio, the Synergy uses cartridge bodies and PCBs that are compatible with the vintage Atari 400 computer game console. In my cursory research, this seems to be the case.  If I had just a few cartridges to do I could eBay a handful of cartridges, mod the PCB and be off to the races.
 
-However, I have 23 cartridges to make - so I decided to 3D print my own custom case (based off a vintage Synergy voice cartridge). Here is a shot of it with VCART6 sitting inside of the bottom of the cartridge:
+However, I have 23 cartridges to make - so I decided to 3D print my own custom case (based off a vintage Synergy voice cartridge) and replicate the PCB in Eagle.
 
-![DK Synergy](scad/cart_bottom.jpg)
+##MY PLAN:
 
-####3D PRINTED CARTRIDGE BODY
+* Design a new Cartridge Body in OpenSCAD [*DONE*]
+* 3D Print 23 Cases [*In-Process*]
+* Replicate the PCB in Eagle [*DONE*]
+* Do a Test Run of the PCB at OSH Park [*In-Process*]
+* Assemble, Test and Tweak the PCB
+* Find and Affordable PCB Manufacturer that can Gold Plate the Edges
+* Get >23 PCBs Made with Gold Plated Edges
+* Assemble All Carts
 
-You are welcome to grab the STL and/or OpenSCAD files to play around with it. It feels pretty good to me, but I am still in R&D on the body and may make a few changes. I'll annotate here when I consider it "done" - though it is pretty close.
+##3D PRINTED CARTRIDGE BODY
+
+![Assembled Cartridge with Label](scad/cart_assembled.jpg)
+
+The cart body is in two parts - the top and the bottom. While it is close to the original, I've made some modifications to better support 3D printing. Primarily, there are now 5 little plastic studs in the four corners and top center to make the body way more rigid (the original only had one in the top center location). I also changed the label system to use a single 0.5" x 1.75" mailing label on the top end (as opposed to the wraparound label.
+
+![Top](scad/cart_top.jpg)
+![Bottom](scad/cart_bottom.jpg)
+
+You are welcome to grab the STL and/or OpenSCAD files to play around with it. I've been printing on my NewMatter Mod-T with PLA. If you are using a different printer, the tolerances may be different. Let me know if you have any issues.
 
 * [Top STL File](scad/synergycart-top.stl)
 * [Bottom STL File](scad/synergycart-bottom.stl)
@@ -26,13 +42,49 @@ The cartridge is designed to support a standard 0.5" x 1.75" mailing label on th
 
 [Avery Easy Peel Return Address Labels for Laser Printers, 0.5 x 1.75 Inches, White, Pack of 2000 (5267)](https://www.amazon.com/gp/product/B00004Z5QP)
 
-You will also need a 1/2 inch #4 wood screw (0.112" major thread diameter) with a crown top for each cartridge.
+You will also need a 1/2 inch #6 wood screw (0.138" major thread diameter and .279" head diameter) with a crown top for each cartridge.
 
 ![EPROMs](scad/screw.png)
 
-####CARTRIDGE PCB
+##CARTRIDGE PCB
 
-Haven't started work on this - though I found this resource for a PCB for the Atari 400 PCB. I'll either be using this or whipping a custom one up in Eagle. I need to identify if the resistor and diode can be inseted into the Atari 400 design.
+As opposed to using the Atari 400 cartridge PCB (there is a schematic in the Additional Resources if you care curious), I decided to I took apart a Synergy Cartridge and reverse engineered it with a voltmeter and high-precision calipers and replicated it in Eagle. Why? Cuz it was fun.
 
-* [PDF for Atari 400 PCB](http://www.grandideastudio.com/wp-content/uploads/pp_atari8bit_instructions.pdf)
-* [Page with Link to Gerbers File](http://www.grandideastudio.com/portfolio/pixels-past/)
+Here are the rendered test PCBs from OSH Park.
+
+![Top of Board](scad/board_top.png)
+![Top of Board](scad/board_bottom.png)
+
+####EEPROM Pin Mapping
+
+| Top Edge | EEPROM Pin |  | Bottom Edge | EEPROM Pin |
+| --- | --- | --- | --- | --- |
+| T1 | 1 | | B1 | X |
+| T2 | 7 | | B2 | 27 |
+| T3 | 8 | | B3 | 21 |
+| T4 | 9 | | B4 | 23 |
+| T5 | 10 | | B5 | 19 |
+| T6 | 16 | | B6 | 15 |
+| T7 | 17 | | B7 | 2 |
+| T8 | 13 | | B8 | 24 |
+| T9 | 12 | | B9 | 25 |
+| T10 | 11 | | B10 | 3 |
+| T11 | 18 | | B11 | 4 |
+| T12 | 22 | | B12 | 5 |
+| T13 | 26/28 | | B13 | 6 |
+| T14 | 26/28 | | B14 | 14/20 |
+| T15 | X | | B15 | 14/20 |
+
+There is also a through-hole resistor (4k7), capacitor (.1uf) and diode on the original cartridge. You can find my reverse-engineered schematic below:
+
+![Schematic](scad/cart_schematic.png)
+
+I'll post the Eagle Files and Gerbers here once it is tested and working.
+
+##ADDITIONAL RESOURCES
+
+* [AM2764DC EEPROM Datasheet](scad/AM2764DC.pdf)
+* [PDF for Atari 400 PCB](http://www.grandideastudio.com/wp-content/uploads/pp_atari8bit_instructions.pdf) from Grand Idea Studio (not used)
+* [Page with Link to Gerbers File](http://www.grandideastudio.com/portfolio/pixels-past/) from Grand Idea Studio (not used)
+* Original PCB Top: ![Original PCB Top](scad/orig_pcb_top.jpg)
+* Original PCB Bottom: ![Original PCB Bottom](scad/orig_pcb_top.jpg)
