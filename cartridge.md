@@ -6,7 +6,7 @@ I have a complete set of all of the EPROMs for the Synergy - including all of th
 
 ![EPROMs](scad/eproms.png)
 
-	I know what you are thinking. Yes, these are also available using SYNHCS on the Kaypro II (they are all archived on the collection of voice disks that I have), but I wanted to have a full set of cartridges to go with it so I don't have to always boot up the Kaypro II.
+*I know what you are thinking. Yes, these are also available using SYNHCS on the Kaypro II (they are all archived on the collection of voice disks that I have), but I wanted to have a full set of cartridges to go with it so I don't have to always boot up the Kaypro II.*
 
 According to Dan Wilson of Hideaway Studio, the Synergy uses cartridge bodies and PCBs that are compatible with the vintage Atari 400 computer game console. In my cursory research, this seems to be the case.  If I had just a few cartridges to do I could eBay a handful of cartridges, mod the PCB and be off to the races.
 
