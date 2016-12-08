@@ -8,7 +8,10 @@ This section covers my refurbishment of the DK Synergy Keyboard. You will find d
 
 There is a "universal keyboard upgrade" that you can find on the [Virtual Music site](http://virtual-music.at/webseiten_e/zubehoer/dk.htm). I reached out to Alexander Guelfenberg at Virtual Music about getting his upgrade and found it wasn't offered for the Synergy anymore. Here is what he shared with me:
 
-	All items were fitting when I had my personal Synergy. And I saw that all PPG parts worked for that. But then a client told me that his knobs are quite different so they did not fit.
+	All items were fitting when I had my personal Synergy. 
+	And I saw that all PPG parts worked for that. But then 
+	a client told me that his knobs are quite different so 
+	they did not fit.
 
 I should point out that he is an insanely nice person and has been extremely helpful with my Synergy work.
 
@@ -30,7 +33,9 @@ My steps for removal of the keys:
 
 That's it.
 
-    Note: I wasn't able to figure out how to separate the white plastic key from the metal bar safely. I decided to leave it on and be very careful during the cleaning.
+    Note: I wasn't able to figure out how to separate the 
+    white plastic key from the metal bar safely. I decided 
+    to leave it on and be very careful during the cleaning.
 
 ##Cleaning the Keys
 
@@ -68,7 +73,10 @@ I used two UV lamps I found on Amazon (and liberal amounts of duct tape):
 
 ![UV Lamps](img_key/uv_lamps.jpg)
 
-    IMPORTANT: At no point do you want the peroxide to dry as it can scar the plastic surface of the keys. Set an alarm or other timer. These things are irreplaceable as far as I can tell.
+    IMPORTANT: At no point do you want the peroxide to dry 
+    as it can scar the plastic surface of the keys. Set an 
+    alarm or other timer. These things are irreplaceable 
+    as far as I can tell.
 
 ####Black Keys
 
