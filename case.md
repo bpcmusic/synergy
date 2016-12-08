@@ -43,15 +43,15 @@ It turned out amazingly well. Total for the case refurbishment (repair and refin
 
 Check out some early pictures:
 
-![Front Case](img_case/front_case.png)
+![Front Case](img_case/front_case.jpg)
 
-![Side Case](img_case/side_case.png)
+![Side Case](img_case/side_case.jpg)
 
-![Front Keys](img_case/front_keys.png)
+![Front Keys](img_case/front_keys.jpg)
 
-![Left Side Keys](img_case/left_side_keys.png)
+![Left Side Keys](img_case/left_side_keys.jpg)
 
-![Right Side Keys](img_case/right_side_keys.png)
+![Right Side Keys](img_case/right_side_keys.jpg)
 
 
 
