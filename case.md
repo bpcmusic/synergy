@@ -2,6 +2,8 @@
 
 # Restoring the Wood Case
 
+##Context and a Plan
+
 So - my Synergy is currently a medium-brown wood. It has some damage, but isn't horrible. Basic scratches and light gouges around the body. Only one place on the primary face where a little of the surface is chipped off. Each of the four corners of the base is crushed in a bit.
 
 ![My Synergy](mysynergy.png)
@@ -34,3 +36,24 @@ Should look beautiful. Couple of points:
 * The black Synergy keyboards that I've seen have a tolex-wrapped base. As I don't plan to travel with the instrument, if I piano-black the thing, I'll probably just do the whole body.
 
 ![Disassembled](disassembled.jpg)
+
+##Results
+
+It turned out amazingly well. Total for the case refurbishment (repair and refinishing) was around $1300 in LA. Considering how banged up it was, they did a wonderful job.
+
+Check out some early pictures:
+
+![Front Case](img_case/front_case.png)
+
+![Side Case](img_case/side_case.png)
+
+![Front Keys](img_case/front_keys.png)
+
+![Left Side Keys](img_case/left_side_keys.png)
+
+![Right Side Keys](img_case/right_side_keys.png)
+
+
+
+
+
