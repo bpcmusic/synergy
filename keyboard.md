@@ -44,7 +44,7 @@ http://www.retrofixes.com/2013/10/how-to-clean-whiten-yellowed-plastics.html
 
 Check out the difference before and after cleaning:
 
-![Old vs New](img_key/cleaning_comparison.pdf)
+![Old vs New](img_key/cleaning_comparison.jpg)
 
 Left group hasn't been done; right group has:
 
